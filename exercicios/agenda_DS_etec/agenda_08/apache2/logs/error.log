@@ -1,0 +1,7 @@
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/Repositorios/php_studies/exercicios/agenda_DS_etec/agenda_08\\php\\ext\\php_curl.dll' - %1 n\xef\xbf\xbdo \xef\xbf\xbd um aplicativo Win32 v\xef\xbf\xbdlido.\r\n in Unknown on line 0
+[Sun Apr 09 14:32:30.359850 2023] [mpm_winnt:notice] [pid 8544:tid 768] AH00455: Apache/2.4.29 (Win32) PHP/7.1.11 configured -- resuming normal operations
+[Sun Apr 09 14:32:30.359850 2023] [mpm_winnt:notice] [pid 8544:tid 768] AH00456: Server built: Nov  3 2017 01:01:54
+[Sun Apr 09 14:32:30.359850 2023] [core:notice] [pid 8544:tid 768] AH00094: Command line: 'D:\\Repositorios\\php_studies\\exercicios\\agenda_DS_etec\\agenda_08/apache2/bin/httpd_usbwv8.exe -d D:/Repositorios/php_studies/exercicios/agenda_DS_etec/agenda_08/apache2'
+[Sun Apr 09 14:32:30.375493 2023] [mpm_winnt:notice] [pid 8544:tid 768] AH00418: Parent: Created child process 13812
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/Repositorios/php_studies/exercicios/agenda_DS_etec/agenda_08\\php\\ext\\php_curl.dll' - %1 n\xef\xbf\xbdo \xef\xbf\xbd um aplicativo Win32 v\xef\xbf\xbdlido.\r\n in Unknown on line 0
+[Sun Apr 09 14:32:31.581964 2023] [mpm_winnt:notice] [pid 13812:tid 564] AH00354: Child: Starting 64 worker threads.

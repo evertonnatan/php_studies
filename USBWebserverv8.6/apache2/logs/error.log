@@ -1,0 +1,4 @@
+[Sun Nov 12 17:36:50.676569 2023] [mpm_winnt:notice] [pid 25268:tid 868] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Sun Nov 12 17:36:50.677582 2023] [mpm_winnt:notice] [pid 25268:tid 868] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Sun Nov 12 17:36:50.677582 2023] [core:notice] [pid 25268:tid 868] AH00094: Command line: 'D:\\Repositorios\\php_studies\\USBWebserverv8.6/apache2/bin/httpd_usbwv8.exe -d D:/Repositorios/php_studies/USBWebserverv8.6/apache2'
+[Sun Nov 12 17:36:50.694654 2023] [mpm_winnt:notice] [pid 25268:tid 868] AH00418: Parent: Created child process 25108
